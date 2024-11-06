@@ -1,29 +1,3 @@
-/*
-    Made By: Alicyn Knapp,
-        an I Love Hue game enjoyer
-
-    Because I wanted to see the CSS color 
-    swatches in VSCode, sorted by color (at
-    least, to my eye anyway). There's no 
-    color theory applied to this, but feel
-    free to reorder this list as you see fit.
-    Perception of color is subjective, but I'm
-    not colorblind (I've tested it; I'm not).
-
-    The classes below should NOT be used in
-    any capacity for the typical CSS class
-    usage; it was just a convenient way to 
-    group the colors.
-
-    The white swatches are sorted by their
-    undertones based on what I could see when
-    hovering over their color box in VSCode,
-    looking at their color gradient/selection
-    box, and identifying the main color used
-    to create that shade of white. I do not
-    claim to be so good at sorting colors that
-    I can sort shades of white.
-*/
 .special {
     color:currentColor;
     color:inherit;
