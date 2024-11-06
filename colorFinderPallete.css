@@ -1,0 +1,208 @@
+/*
+    Made By: Alicyn Knapp,
+        an I Love Hue game enjoyer
+
+    Because I wanted to see the CSS color 
+    swatches in VSCode, sorted by color (at
+    least, to my eye anyway). There's no 
+    color theory applied to this, but feel
+    free to reorder this list as you see fit.
+    Perception of color is subjective, but I'm
+    not colorblind (I've tested it; I'm not).
+
+    The classes below should NOT be used in
+    any capacity for the typical CSS class
+    usage; it was just a convenient way to 
+    group the colors.
+
+    The white swatches are sorted by their
+    undertones based on what I could see when
+    hovering over their color box in VSCode,
+    looking at their color gradient/selection
+    box, and identifying the main color used
+    to create that shade of white. I do not
+    claim to be so good at sorting colors that
+    I can sort shades of white.
+*/
+.special {
+    color:currentColor;
+    color:inherit;
+    color:initial;
+    color:transparent;
+    color:unset;
+}
+
+.pinkish {
+    color:mediumvioletred;
+    color:deeppink;
+    color:hotpink;
+    color:pink;
+    color:lavenderblush;
+    color:lightpink;
+    color:tomato;
+    color:lightcoral;
+    color:lightsalmon;
+    color:salmon;
+}
+
+.redish {
+    color:maroon;
+    color:darkred;
+    color:firebrick;
+    color:crimson;
+    color:red;
+    color:orangered;
+    color:tomato;
+    color:salmon;
+    color:palevioletred;
+    color:rosybrown;
+    color:indianred;
+}
+
+.orangeish {
+    color:burlywood;
+    color:lightsalmon;
+    color:sandybrown;
+    color:peru;
+    color:chocolate;
+    color:sienna;
+    color:saddlebrown;
+    color:brown;
+    color:orangered;
+    color:coral;
+    color:darkorange;
+    color:orange;
+}
+
+.yellowish {
+    color:darkgoldenrod;
+    color:goldenrod;
+    color:gold;
+    color:yellow;
+    color:greenyellow;
+    color:yellowgreen;
+    color:olivedrab;
+    color:darkolivegreen;
+    color:olive;
+    color:darkkhaki;
+    color:tan;
+    color:khaki;
+    color:navajowhite;
+    color:moccasin;
+    color:wheat;
+    color:palegoldenrod;
+    color:blanchedalmond;
+    color:lemonchiffon;
+    color:lightgoldenrodyellow;
+    color:lightyellow;
+}
+
+.greenish {
+    color:yellowgreen;
+    color:olivedrab;
+    color:darkolivegreen;
+    color:darkgreen;
+    color:green;
+    color:forestgreen;
+    color:seagreen;
+    color:mediumseagreen;
+    color:limegreen;
+    color:lime;
+    color:lawngreen;
+    color:chartreuse;
+    color:greenyellow;
+    color:lightgreen;
+    color:darkseagreen;
+    color:palegreen;
+    color:springgreen;
+    color:mediumspringgreen;
+}
+
+.blueish {
+    color:teal;
+    color:darkcyan;
+    color:lightseagreen;
+    color:mediumspringgreen;
+    color:aquamarine;
+    color:cyan;
+    color:aqua;
+    color:turquoise;
+    color:darkturquoise;
+    color:mediumturquoise;
+    color:mediumaquamarine;
+    color:cadetblue;
+    color:steelblue;
+    color:midnightblue;
+    color:navy;
+    color:darkblue;
+    color:mediumblue;
+    color:blue;
+    color:royalblue;
+    color:cornflowerblue;
+    color:dodgerblue;
+    color:deepskyblue;
+    color:lightskyblue;
+    color:skyblue;
+    color:paleturquoise;
+    color:lightcyan;
+    color:lavender;
+    color:azure;
+    color:aliceblue;
+    color:powderblue;
+    color:lightblue;
+    color:lightsteelblue;
+    color:mediumslateblue;
+    color:slateblue;
+    color:darkslateblue;
+}
+
+.purpleish {
+    color:mediumvioletred;
+    color:fuchsia;
+    color:magenta;
+    color:orchid;
+    color:plum;
+    color:thistle;
+    color:violet;
+    color:mediumorchid;
+    color:mediumpurple;
+    color:blueviolet;
+    color:rebeccapurple;
+    color:darkviolet;
+    color:darkorchid;
+    color:darkmagenta;
+    color:purple;
+}
+
+.whiteish {
+    color:white;
+    color:snow;
+    color:whitesmoke;
+    color:mistyrose;
+    color:gainsboro;
+    color:seashell;
+    color:linen;
+    color:bisque;
+    color:antiquewhite;
+    color:papayawhip;
+    color:floralwhite;
+    color:oldlace;
+    color:cornsilk;
+    color:ivory;
+    color:beige;
+    color:honeydew;
+    color:mintcream;
+    color:ghostwhite;
+}
+
+.greyish {
+    color:black;
+    color:darkslategray;
+    color:dimgray;
+    color:slategray;
+    color:lightslategray;
+    color:gray;
+    color:darkgray;
+    color:silver;
+    color:lightgray;
+}
